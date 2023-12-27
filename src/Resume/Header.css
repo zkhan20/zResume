@@ -1,0 +1,38 @@
+
+.headersec{
+    background: url("https://cdn.pixabay.com/photo/2023/05/21/07/49/blockchain-8008051_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* width: 50%; */
+    overflow: hidden;
+    height: 60vh;
+    /* text-align: center; */
+    font-size: 30px;
+}
+#name{
+    font-size: 60px;
+    /* text-align: center; */
+    background: -webkit-image-set("https://i.gifer.com/Vo2o.gif");
+    -webkit-background-clip: text;
+    background-position: 50%;
+    -webkit-text-fill-color: transparent;
+
+}
+
+
+
+.headersec h2{
+    background: -webkit-image-set("https://cdn.dribbble.com/users/8156988/screenshots/16260376/media/d72c6c8fe5a5cded14961afbe4590e2d.gif");
+    -webkit-background-clip: text;
+    background-position: 50%;
+    -webkit-text-fill-color: transparent;
+   
+}
+#headerbtn{
+    background: transparent;
+    border: 1px solid red;
+    color: #000;
+    padding: 10px;
+
+}

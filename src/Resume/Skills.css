@@ -1,0 +1,32 @@
+.skills{
+    background-color: #3D3D3D;
+    justify-content: space-around;
+    align-items: center;
+   
+    
+}
+.skills h1{
+    text-align: center;
+    color: white;
+    
+}
+.skillsDiv{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 80%;
+    gap: 20px;
+}
+.skillname{
+    background-color: #808080;
+    justify-content: center;
+    border: 1px solid black;
+    width: 500px;
+    text-align: center;
+    color: white;
+}
+
+.skillname div{
+    color: #FCD53F;
+}
